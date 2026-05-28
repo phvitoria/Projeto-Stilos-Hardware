@@ -1,0 +1,6 @@
+{
+  "name": "Stilos Hardware",
+  "description": "Portal de inventário de hardware de alto desempenho, com catálogo interativo e cadastro customizável de componentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
